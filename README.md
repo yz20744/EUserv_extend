@@ -24,7 +24,7 @@ pip install requests beautifulsoup4
 
 2、Replace the USERNAME & PASSWORD parms with yours in `main.py` Line 7-8.
 
-Your can add multiple accounts with single space separated.
+Your can add multiple accounts with single space separated.. 
 
 ## 说明
 
